@@ -12,3 +12,6 @@ print("NRP  : 5009211008")
 
 **C. Commit Logs**
 ![C](C.png)
+
+**D. Implementasi Signal Processing**
+![D](Filtering(tugas1).png)
