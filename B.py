@@ -4,6 +4,7 @@ Created on Wed Sep 13 17:17:25 2023
 
 @author: virgi
 """
+""" percobaan saja """
 
 #!/bin/python
 # -*- coding: utf-8 -*-
