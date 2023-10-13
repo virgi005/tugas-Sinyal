@@ -23,3 +23,6 @@ Berikut ini merupakan [Script-Code](Filtering(tugas1).py)
 ![D](Filtering(tugas1).png)
 
 # tugas-2-Sinyal
+**Tugas Konvolusi**
+Berikut ini merupakan [Script-Code](Tugas_2_FFT_1D.py)
+![D](Tugas_2_FFT_1D.png)
