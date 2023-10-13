@@ -29,10 +29,14 @@ Berikut ini merupakan [Script-Code](Tugas_2_Konvolusi.py)
 ![D](TugasKonvolusi.png)
 
 **Tugas FFT 1D**
+
 Berikut ini merupakan [Script-Code](TTugas_2_FFT_1D.py)
+
 ![D](Tugas_2_FFT_1D.png)
 
 **Tugas FFT 2D**
+
 Berikut ini merupakan [Script-Code](TTugas_2_FFT_2D.py)
+
 ![D](Tugas_2_FFT_2D.png)
 
