@@ -21,3 +21,5 @@ Berikut ini merupakan [Script-Code](B.py)
 Berikut ini merupakan [Script-Code](Filtering(tugas1).py)
 
 ![D](Filtering(tugas1).png)
+
+# tugas-2-Sinyal
